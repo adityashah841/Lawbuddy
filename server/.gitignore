@@ -1,0 +1,9 @@
+*.zip
+client/
+.ipynb_checkpoints/
+.env
+venv
+requirements.txt
+requirements1.txt
+lai
+lai2
