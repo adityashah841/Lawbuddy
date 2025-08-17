@@ -3,59 +3,59 @@
 ## Introduction
 **LAWBUDDY** is an advanced legal platform designed to empower individuals with knowledge about their rights and legalities under Indian laws. Leveraging cutting-edge technology, the platform offers a range of features, including a Know-Your-Rights chatbot, document retrieval, legal insights, and more.
 ### Home Page
-![image](https://github.com/Devang-Shah-49/LegalAI/assets/80088008/42d10112-0886-4dea-8d0c-b8e3ca05f032)
+![image](assets/1.png)
 
 ### Client connects to Advocate
-![image](https://github.com/Devang-Shah-49/LegalAI/assets/80088008/66653c2e-d772-40c3-b340-eb9359a73f63)
+![image](assets/2.png)
 
 
 
 
 ### Personal Assistant
-![image](https://github.com/Devang-Shah-49/LegalAI/assets/55392536/3af6c099-7aca-4ea0-8d0c-dd1da257378f)
+![image](assets/3.png)
 
 
 
 ### Webscrapping Latest News
-![image](https://github.com/Devang-Shah-49/LegalAI/assets/55392536/6255c4d5-25e4-4e7e-a245-28980b386130)
+![image](assets/4.png)
 
 
 
 ### Feature Page 
-![image](https://github.com/Devang-Shah-49/LegalAI/assets/55392536/ae27f383-5b99-4b35-a0e7-04b2564651a8)
+![image](assets/5.png)
 
 
 
 ### Lawbot
-![image](https://github.com/Devang-Shah-49/LegalAI/assets/55392536/e50fccdd-e4bb-46e2-9eff-747df7875908)
+![image](assets/6.png)
 
 
 
 
 ### Document Summarization/QNA
-![image](https://github.com/Devang-Shah-49/LegalAI/assets/55392536/dea9a579-92d2-4d8f-8529-d254b1ba3f5d)
+![image](assets/7.png)
 
 
 
 ### Narrative Legalism
-![image](https://github.com/Devang-Shah-49/LegalAI/assets/55392536/3ffcf4e6-0dde-4b76-9a59-dc37361339de)
+![image](assets/8.png)
 
 
 
 ### Document Drafting
-![image](https://github.com/Devang-Shah-49/LegalAI/assets/55392536/156b6fc8-2c65-4ce3-bcfc-7ef5a84b2148)
+![image](assets/9.png)
 
 
 
 ### Advocaate Connect Page
-![image](https://github.com/Devang-Shah-49/LegalAI/assets/55392536/0346a969-3e71-4ea2-b361-2324f4be4c6e)
+![image](assets/10.png)
 
 
 
 ### Admin Dashboard
-![image](https://github.com/Devang-Shah-49/LegalAI/assets/55392536/23d83b4e-f774-456d-9b36-9ebaabca8395)
+![image](assets/11.png)
 
-![image](https://github.com/Devang-Shah-49/LegalAI/assets/55392536/7a8cdb7e-b151-4daf-b97c-0b72c1817c73)
+![image](assets/12.png)
 
 
 
